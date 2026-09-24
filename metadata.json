@@ -1,0 +1,7 @@
+{
+  "name": "HomeEase - House Help & Home Services Booking",
+  "description": "Professional household service booking platform connecting customers with vetted house help, cleaners, cooks, and home maintenance partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
